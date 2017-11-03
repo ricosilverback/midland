@@ -1,0 +1,31 @@
+body{
+    background-color:lightgrey;
+}
+.infohead{
+    width:100%;
+    height:100%;
+    padding:2em;
+    background-color:lightgrey;
+}
+
+.infoimg{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.infoform{
+    padding:3em;
+}
+
+.form-row{
+    padding:3em;
+}
+
+.infofoot{
+    width:100%;
+    height:100%;
+    padding:2em;
+    background-color:lightgrey;
+}
+
